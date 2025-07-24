@@ -27,7 +27,7 @@ Brandhofer, S. et al. (2022). Benchmarking the performance of portfolio optimiza
 
 This paper compares different QAOA variants for solving portfolio optimization problems. Using real financial data and simulation benchmarks, the authors evaluate how each approach performs. And by weighing both successes and limitations, the paper offers a realistic view of QAOA’s capabilities in finance and emphasizes the importance of doing more experimentation.
 
-**Tools**
+**Tools/Techniques:**
 
 *Mathematics*: 
 
