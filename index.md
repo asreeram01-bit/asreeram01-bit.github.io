@@ -5,10 +5,12 @@
 layout: single
 author_profile: true
 ---
-**Project Idea**
+**Project Idea:**
+
 Using quantum algorithms to improve how investors build the best mix of stocks in a portfolio.
 
 **Background**
+
 *Context*: In finance, one big challenge is deciding how to invest money across different stocks or assets. The goal is to maximize profit while also keeping risk low, which is called portfolio optimization. It’s a difficult problem because there are so many possible combinations to choose from, especially when working with large datasets. Quantum algorithms, like QAOA (Quantum Approximate Optimization Algorithm), can help solve these kinds of problems faster by leveraging qubits and superposition.
 
 *Motivation*: To help financial professionals enhance their portfolio management, especially by minimizing any type of risk.
