@@ -60,7 +60,7 @@ plugins:
 author:
   name   : Akshaya Sreeram
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi! I'm Akshaya, a rising senior at the Downingtown STEM Academy in PA. I really enjoyed my time at MathQuantam, and thank you so much Daniel and Krish!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
